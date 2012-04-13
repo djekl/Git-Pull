@@ -7,8 +7,7 @@ Easy as pie!
     
 
 ## GitHub Setup
-
 Simply look at this GitHub help link: 
 
-```http://help.github.com/post-receive-hooks/```
+http://help.github.com/post-receive-hooks/
 
